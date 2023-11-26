@@ -1,5 +1,5 @@
-# RMUTT_09114339
- Data Science for Mathematicians
+# Data Science for Mathematicians
+วิทยาการข้อมูลสำหรับนักคณิตศาสตร์
 
 ผู้สอน: ดร.รัฐพรหม พรหมคำ
 
