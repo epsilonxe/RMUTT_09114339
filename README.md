@@ -57,15 +57,15 @@ Introduction to the practice of data science, predictive modeling, supervised se
 
 |PART| Topic						| 	Class Materials 		|
 |----|---------------------------|---------------------------|
-| A  | Introduction to data science  | [Lecture](./mateials/01_data_science_intro.pdf)/ [Workshop](./materials/workshop_01.zip) |
-| A  | Data Science Tools  | [Lecture](./mateials/lecture_02.pdf)/ [Workshop](./materials/workshop_02.zip) |
-| A  | Data Science Methodology  | [Lecture](./mateials/lecture_03.pdf)/ [Workshop](./materials/workshop_03.zip) |
-| B  | Data Visualization with Python  | [Lecture](./mateials/lecture_04.pdf)/ [Workshop](./materials/workshop_04.zip) |
+| A  | Introduction to data science  | [Lecture](./materials/01_data_science_intro.pdf)/ [Workshop](./materials/workshop_01.zip) |
+| A  | Data Science Tools  | [Lecture](./materials/lecture_02.pdf)/ [Workshop](./materials/workshop_02.zip) |
+| A  | Data Science Methodology  | [Lecture](./materials/lecture_03.pdf)/ [Workshop](./materials/workshop_03.zip) |
+| B  | Data Visualization with Python  | [Lecture](./materials/lecture_04.pdf)/ [Workshop](./materials/workshop_04.zip) |
 |    | MID-TERM Examination  |  |
-| B  | Data Analysis with Python   | [Lecture](./mateials/lecture_05.pdf)/ [Workshop](./materials/workshop_05.zip) |
-| B  | Machine Learning with Python    | [Lecture](./mateials/lecture_06.pdf)/ [Workshop](./materials/workshop_06.zip) |
-| C  | Data Privacy Fundamentals    | [Lecture](./mateials/lecture_07.pdf)/ [Workshop](./materials/workshop_07.zip) |
-| C  | Predictive Modeling Fundamentals    | [Lecture](./mateials/lecture_08.pdf)/ [Workshop](./materials/workshop_08.zip) |
+| B  | Data Analysis with Python   | [Lecture](./materials/lecture_05.pdf)/ [Workshop](./materials/workshop_05.zip) |
+| B  | Machine Learning with Python    | [Lecture](./materials/lecture_06.pdf)/ [Workshop](./materials/workshop_06.zip) |
+| C  | Data Privacy Fundamentals    | [Lecture](./materials/lecture_07.pdf)/ [Workshop](./materials/workshop_07.zip) |
+| C  | Predictive Modeling Fundamentals    | [Lecture](./materials/lecture_08.pdf)/ [Workshop](./materials/workshop_08.zip) |
 | C  | Case study I  | TBA  |
 | C  | Case study II | TBA  |
 | D  | Project-based Seminar I | TBA  |
