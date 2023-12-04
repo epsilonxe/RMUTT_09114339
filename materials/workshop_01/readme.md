@@ -14,3 +14,5 @@ Make sure that it associates with your name and surname which  are spell properl
 8. Claim your badge.
 9. Sign in at https://www.credly.com with your Google account.
 10. You will earn the certified badges automatically, which is also listed in the dashboard section.
+
+Good Luck (^_-)/
