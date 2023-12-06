@@ -1,4 +1,4 @@
-# Certificate
+# Workshop 01
 
 In order to earn the certificate, you need a Google account.
 Make sure that it associates with your name and surname which  are spell properly since this will be printed on the certificate.
