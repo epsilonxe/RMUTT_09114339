@@ -1,11 +1,12 @@
 # Workshop 01
+## Data Science 101
 
 In order to earn the certificate, you need a Google account.
 Make sure that it associates with your name and surname which  are spell properly since this will be printed on the certificate.
 
 ## Materials
 
-Check the [materials](../workshop_01.zip).
+Check the [materials](../workshop_02.zip).
 
 ## Instructions
 
