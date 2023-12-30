@@ -11,19 +11,18 @@ In this lesson you will learn about:
 
 
 ## Business Understanding
-<!-- .slide: data-background="rgb(255,255,255)" -->
-![flowchart](../figures/ds_methodology.png)
+![flowchart](figures/ds_methodology.png)
 
 
-### The importance of questions
-<!-- .slide: data-background-image="../figures/questions.png" -->
+The importance of questions
+<!-- .element: class="textontop" -->
+<!-- .slide: data-background-image="figures/questions.png" -->
 
 
 ### From understanding to approach
-<!-- .slide: data-background="white" -->
 <div class="container">
 <div class="col col-center" style="flex: 1.5;">
-<img src='../figures/ds_methodology.png' />
+<img src='figures/ds_methodology.png' />
 
 </div>
 <div class="col">
@@ -32,7 +31,7 @@ In this lesson you will learn about:
 
 - What is the problem that you are trying to solve?
 
-<img src='../figures/biz_growth.png' width='150'/>
+<img src='figures/biz_growth.png' width='150'/>
 
 **Analytic Approach**
 
@@ -42,31 +41,31 @@ In this lesson you will learn about:
 
 
 What's the goal? <!-- .element: class="textontop" -->
-<!-- .slide: data-background-image="../figures/youneed.gif" -->
+<!-- .slide: data-background-image="figures/youneed.gif" -->
 
 
 Supporting the goal
 <!-- .element class=" textontop" -->
-<!-- .slide: data-background-image="../figures/traffic.gif" -->
+<!-- .slide: data-background-image="figures/traffic.gif" -->
 
 
 ### Getting Stakeholder <br> **buy-in** and **support**
 
-<img src="../figures/stakeholder.svg" style="max-width: 45%;" />
-<img src="../figures/whh.jpeg" style="max-width: 45%;" />
+<img src="figures/stakeholder.svg" style="max-width: 45%;" />
+<img src="figures/whh.jpeg" style="max-width: 45%;" />
 
 
 Case Study:
 <!-- .element class=" textontop" -->
 Predicting readmission outcomes for those patients with Congestive Heart Failure
 <!-- .element style="color: var(--bg-color); text-shadow: 2px 2px var(--main-color);" -->
-<!-- .slide: data-background-image="../figures/simpson_hosp.gif" -->
+<!-- .slide: data-background-image="figures/simpson_hosp.gif" -->
 
 
 ### Case Study: CHF Re-admission
 <div class="container">
 <div class="col">
-<img src="../figures/bart_hosp.gif" style="max-width: 80%;"/>	
+<img src="figures/bart_hosp.gif" style="max-width: 80%;"/>	
 </div>
 <div class="col">
 
@@ -82,7 +81,7 @@ Define the **OBJECTIVE**
 ### Case Study: CHF Re-admission
 <div class="container">
 <div class="col">
-<img src="../figures/bart_hosp.gif" style="max-width: 80%;"/>	
+<img src="figures/bart_hosp.gif" style="max-width: 80%;"/>	
 </div>
 <div class="col" style="font-size: 70%; text-align: justify; background-color: var(--second-color); color: var(--bg-color); padding: 1ex;">
 
