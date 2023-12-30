@@ -7,5 +7,5 @@ out/
 .svn
 log/*.log
 tmp/**
-node_modules/*.md
+node_modules/
 .sass-cache
