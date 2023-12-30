@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="dist/reset.css">
+	<link rel="stylesheet" href="dist/reveal.css">
+	<link rel="stylesheet" href="dist/theme/simple.css">
+	<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	<link rel="stylesheet" href="myconf/styles.css">
+	
+	<title>Data Science Methodology</title>
+</head>
+<body>
+	<div class="reveal">
+		<div class="slides">
+			<section>
+				<h1>Data Science Methodology</h1> 
+
+			</section>
+
+			<section>
+				<h2>Learning Objectives</h2>
+				In this course you will learn about:
+				<ul>
+					<li>The major steps involved in tackling a data science problem.</li>
+					<li>The major steps involved in practicing data science, from forming a concrete business or research problem, to collecting and analyzing data, to building a model, and understanding the feedback after model deployment.</li>
+					<li>How data scientists think through tackling interesting real-world examples.</li>
+				</ul>
+			</section>
+
+			<section data-background-color='rgb(255,255,255)'
+					data-background-transition='zoom'>
+				<h2>Data Science Methodology</h2>
+				<img src="figures/ds_methodology.png">
+			</section>
+
+			<section data-markdown="contents/ds_methodology/module_01.md"
+					data-separator="^\n\n\n"
+					data-separator-vertical="^\n\n"
+					data-separator-notes="^Note:"
+					data-charset="utf-8" >
+			</section>
+
+			<section data-markdown="contents/ds_methodology/module_02.md"
+					data-separator="^\n\n\n"
+					data-separator-vertical="^\n\n"
+					data-separator-notes="^Note:"
+					data-charset="utf-8" >
+			</section>
+
+		</div>
+	</div>
+
+	<script src="live.js"></script>
+	<script src="dist/reveal.js"></script>
+	<script src="plugin/notes/notes.js"></script>
+	<script src="plugin/markdown/markdown.js"></script>
+	<script src="plugin/highlight/highlight.js"></script>
+	<script>
+		Reveal.initialize({
+			hash: true,
+			plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ],
+			transition: 'slide',
+		});
+	</script>
+</body>
+</html>
