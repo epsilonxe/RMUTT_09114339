@@ -1,0 +1,35 @@
+:root {
+    --main-color: #330000;
+    --second-color: #3399CC;
+    --accent-color: #CDB99C;
+    --bg-color: #FFFFFF;
+}
+
+
+
+li{
+    color: var(--second-color);
+    font-size: 65%;
+}
+
+.container{
+    display: flex;
+}
+
+.col{
+    flex: 1;
+}
+
+.col-center{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+.textontop{
+    color: var(--bg-color); 
+    text-transform: uppercase;
+    font-size: 150%;
+    font-weight: bold; 
+    text-shadow: 2px 2px var(--main-color);
+}
