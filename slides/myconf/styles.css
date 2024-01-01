@@ -6,8 +6,17 @@
 }
 
 
+ul ul, ol ol {
+  color: var(--second-color);
+}
+
+ul ul ul, ol ol ol {
+  color: var(--accent-color);
+}
+
 li{
     margin: 10px 0;
+    font-size: 100%;
 }
 
 .container{
@@ -16,7 +25,9 @@ li{
 
 .col{
     flex: 1;
-    font-size: 75%;
+    font-size: 65%;
+    padding: 0 10px;
+    margin: 0 10px;
 }
 
 .col-center{
@@ -124,4 +135,9 @@ card-info {
   font-size: 50%;
   background-color: var(--bg-color);
   display: block;
+}
+
+
+.par-left {
+  text-align: start;
 }

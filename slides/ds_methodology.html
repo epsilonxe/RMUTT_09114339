@@ -49,6 +49,20 @@
 					data-charset="utf-8" >
 			</section>
 
+			<section data-markdown="contents/ds_methodology/module_03.md"
+					data-separator="^\n\n\n"
+					data-separator-vertical="^\n\n"
+					data-separator-notes="^Note:"
+					data-charset="utf-8" >
+			</section>
+
+			<section data-markdown="contents/ds_methodology/module_04.md"
+					data-separator="^\n\n\n"
+					data-separator-vertical="^\n\n"
+					data-separator-notes="^Note:"
+					data-charset="utf-8" >
+			</section>
+
 		</div>
 	</div>
 
@@ -57,10 +71,11 @@
 	<script src="plugin/notes/notes.js"></script>
 	<script src="plugin/markdown/markdown.js"></script>
 	<script src="plugin/highlight/highlight.js"></script>
+	<script src="plugin/math/math.js"></script>
 	<script>
 		Reveal.initialize({
 			hash: true,
-			plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ],
+			plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath.KaTeX ],
 			transition: 'slide',
 		});
 	</script>
