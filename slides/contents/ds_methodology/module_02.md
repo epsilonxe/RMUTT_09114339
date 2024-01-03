@@ -159,7 +159,7 @@ Case Study:<br> CHF Re-admission
 
 
 <!-- .slide: data-background="var(--main-color)" data-auto-animate -->
-### Case Study:<br> Merigning data
+### Case Study:<br> Merging data
 
 Eliminate redundant data
 

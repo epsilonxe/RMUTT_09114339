@@ -16,7 +16,7 @@ In this lesson you will learn about:
 
 The importance of questions
 <!-- .element: class="textontop" -->
-<!-- .slide: data-background-image="figures/questions.png" -->
+<!-- .slide: data-background-image="figures/thinking.gif" -->
 
 
 ### From understanding to approach
@@ -69,7 +69,7 @@ Predicting readmission outcomes for those patients with Congestive Heart Failure
 <div class="col">
 <img src="figures/bart_hosp.gif" style="max-width: 80%;"/>	
 </div>
-<div data-id="barttext" class="col">
+<div data-id="barttext" class="col par-left">
 
 Define the **GOAL**	
 - To provide the care without increasing cost
@@ -160,7 +160,7 @@ Current status
 
 <card>
 <card-header>
-Diannostic (Statistical Analysis)
+Diagnostic (Statistical Analysis)
 </card-header>
 <card-info>
 What happened?<br>Why is this happening?
