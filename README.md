@@ -58,8 +58,8 @@ Introduction to the practice of data science, predictive modeling, supervised se
 |PART| Topic						| 	Class Materials 		|
 |----|---------------------------|---------------------------|
 | A  | Introduction to data science  | [Lecture](./materials/01_data_science_intro.pdf)/ [Workshop](./materials/workshop_01) |
-| A  | Data Science Tools  | [Lecture](./materials/02_data_science_tools.pdf)/ [Workshop](./materials/workshop_02.zip) |
-| A  | Data Science Methodology  | [Lecture](./materials/lecture_03.pdf)/ [Workshop](./materials/workshop_03.zip) |
+| A  | Data Science Tools  | [Lecture](./materials/02_data_science_tools.pdf)/ [Workshop](./materials/workshop_02) |
+| A  | Data Science Methodology  | [Lecture](./materials/03_data_science_methodology.pdf)/ [Workshop](./materials/workshop_03) |
 | B  | Data Visualization with Python  | [Lecture](./materials/lecture_04.pdf)/ [Workshop](./materials/workshop_04.zip) |
 |    | MID-TERM Examination  |  |
 | B  | Data Analysis with Python   | [Lecture](./materials/lecture_05.pdf)/ [Workshop](./materials/workshop_05.zip) |
