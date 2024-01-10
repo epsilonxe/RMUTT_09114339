@@ -141,3 +141,8 @@ card-info {
 .par-left {
   text-align: start;
 }
+
+.h-box {
+  color: var(--bg-color);
+  background-color: var(--second-color);
+} 
