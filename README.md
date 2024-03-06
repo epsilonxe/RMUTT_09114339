@@ -61,7 +61,7 @@ Introduction to the practice of data science, predictive modeling, supervised se
 | B  | [Data Visualization with Python](./slides/data_viz.html)  | [Lecture](./materials/lecture_04.pdf)/ [Workshop](./materials/workshop_04) |
 |    | MID-TERM Examination  |  |
 | B  | Data Analysis with Python   | [Lecture](./materials/lecture_05.pdf)/ [Workshop](./materials/workshop_05.zip) |
-| B  | Machine Learning with Python    | [Lecture](./materials/lecture_06.pdf)/ [Workshop](./materials/workshop_06.zip) |
+| B  | Machine Learning with Python    | [Lecture](./materials/lecture_06.pdf)/ [Workshop 1](./materials/workshop_06/1_workshop_regression.zip)/ [Workshop 2](./materials/workshop_06/2_workshop_classification.zip) |
 | C  | Data Privacy Fundamentals    | [Lecture](./materials/lecture_07.pdf)/ [Workshop](./materials/workshop_07.zip) |
 | C  | Predictive Modeling Fundamentals    | [Lecture](./materials/lecture_08.pdf)/ [Workshop](./materials/workshop_08.zip) |
 | C  | Case study I  | TBA  |
