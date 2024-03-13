@@ -64,8 +64,8 @@ Introduction to the practice of data science, predictive modeling, supervised se
 | B  | Machine Learning with Python    | [Lecture](./materials/lecture_06.pdf)/ [Workshop 1](./materials/workshop_06/1_workshop_regression.zip)/ [Workshop 2](./materials/workshop_06/2_workshop_classification.zip) |
 | C  | Data Privacy Fundamentals    | [Lecture](./materials/lecture_07.pdf)/ [Workshop](./materials/workshop_07.zip) |
 | C  | Predictive Modeling Fundamentals    | [Lecture](./materials/lecture_08.pdf)/ [Workshop](./materials/workshop_08.zip) |
-| C  | Case study I  | TBA  |
-| C  | Case study II | TBA  |
+| C  | Case study I  | [CASE 1.1](./materials/case_duke.zip) <br> [CASE 1.2](./materials/case_stock.zip) |
+| C  | Case study II | [CASE 2](./materials/case_titanic.zip)  |
 | D  | Project-based Seminar I | TBA  |
 | D  | Project-based Seminar II | TBA  |
 | D  | Project-based Seminar III | TBA  |
