@@ -6,7 +6,7 @@ Make sure that it associates with your name and surname which  are spell properl
 
 ## Materials
 
-Check the [materials](../workshop_02.zip).
+Check the [materials](../workshop_01.zip).
 
 ## Instructions
 
