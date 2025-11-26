@@ -43,16 +43,16 @@ Introduction to the practice of data science, predictive modeling, supervised se
 
 |   | Topic             |   Material      |
 |---|-------------------|-----------------|
-| 1 | ภูมิมทัศน์วิทยาการข้อมูล & เรขาคณิตของข้อมูล (Data Geometry) | [Lecture](./materials/lesson_01.pdf) <br> [Workshop](./matetials/workshops/01.zip) |
-| 2 | การถดถอยเชิงเส้นจากมุมมองเรขาคณิต (Linear Regression: Geometric View) | [Lecture](./materials/lesson_02.pdf) <br> [Workshop](./matetials/workshops/02.zip) |
-| 3 | พื้นฐานความน่าจะเป็นสำหรับการสร้างแบบจำลอง (Probabilistic Foundations) | [Lecture](./materials/lesson_03.pdf) <br> [Workshop](./matetials/workshops/03.zip) |
-| 4 | การประเมินแบบจำลองและการอนุมานทางสถิติ (Model Evaluation & Inference) | [Lecture](./materials/lesson_04.pdf) <br> [Workshop](./matetials/workshops/04.zip) |
-| 5 | การหาค่าเหมาะสมที่สุด: Gradient Descent | [Lecture](./materials/lesson_05.pdf) <br> [Workshop](./matetials/workshops/05.zip) |
-| 6 | การถดถอยโลจิสติก (Logistic Regression & GLMs) | [Lecture](./materials/lesson_06.pdf) <br> [Workshop](./matetials/workshops/06.zip) |
-| 7 | การจำแนกประเภทแบบไม่เชิงเส้น I (k-NN & Decision Trees) | [Lecture](./materials/lesson_07.pdf) <br> [Workshop](./matetials/workshops/07.zip) |
-| 8 | การจำแนกประเภทแบบไม่เชิงเส้น II (SVMs) | [Lecture](./materials/lesson_08.pdf) <br> [Workshop](./matetials/workshops/08.zip) |
-| 9 | การจัดกลุ่ม (Clustering: k-Means & Hierarchical) | [Lecture](./materials/lesson_09.pdf) <br> [Workshop](./matetials/workshops/09.zip) |
-| 10 | การลดมิติข้อมูล: Principle Component Analysis | [Lecture](./materials/lesson_10.pdf) <br> [Workshop](./matetials/workshops/10.zip) |
+| 1 | ภูมิมทัศน์วิทยาการข้อมูล & เรขาคณิตของข้อมูล <br> *Data Geometry* | [Lecture](./materials/lesson_01.pdf) <br> [Workshop](./matetials/workshops/01.zip) |
+| 2 | การถดถอยเชิงเส้นจากมุมมองเรขาคณิต <br> *Linear Regression: Geometric View* | [Lecture](./materials/lesson_02.pdf) <br> [Workshop](./matetials/workshops/02.zip) |
+| 3 | พื้นฐานความน่าจะเป็นสำหรับการสร้างแบบจำลอง <br> *Probabilistic Foundations* | [Lecture](./materials/lesson_03.pdf) <br> [Workshop](./matetials/workshops/03.zip) |
+| 4 | การประเมินแบบจำลองและการอนุมานทางสถิติ <br> *Model Evaluation & Inference* | [Lecture](./materials/lesson_04.pdf) <br> [Workshop](./matetials/workshops/04.zip) |
+| 5 | การหาค่าเหมาะสมที่สุด <br> *Gradient Descent* | [Lecture](./materials/lesson_05.pdf) <br> [Workshop](./matetials/workshops/05.zip) |
+| 6 | การถดถอยโลจิสติก <br> *Logistic Regression & GLMs* | [Lecture](./materials/lesson_06.pdf) <br> [Workshop](./matetials/workshops/06.zip) |
+| 7 | การจำแนกประเภทแบบไม่เชิงเส้น I <br> *k-NN & Decision Trees* | [Lecture](./materials/lesson_07.pdf) <br> [Workshop](./matetials/workshops/07.zip) |
+| 8 | การจำแนกประเภทแบบไม่เชิงเส้น II <br> *Support Vector Machines* | [Lecture](./materials/lesson_08.pdf) <br> [Workshop](./matetials/workshops/08.zip) |
+| 9 | การจัดกลุ่ม <br> *Clustering: k-Means & Hierarchical* | [Lecture](./materials/lesson_09.pdf) <br> [Workshop](./matetials/workshops/09.zip) |
+| 10 | การลดมิติข้อมูล <br> *Principle Component Analysis* | [Lecture](./materials/lesson_10.pdf) <br> [Workshop](./matetials/workshops/10.zip) |
 
 
 
