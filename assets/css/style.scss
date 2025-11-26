@@ -1,0 +1,36 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* --- CUSTOM OVERRIDES --- */
+
+/* 1. Global Text (Sarabun) */
+body {
+  font-family: 'Sarabun', sans-serif;
+  font-weight: 400; /* Regular weight for reading */
+  line-height: 1.6; /* Improves readability for lecture notes */
+}
+
+/* 2. Headers (Prompt) - Keep this as is */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Prompt', sans-serif;
+  font-weight: 700;
+  color: #2c3e50;
+}
+
+h1 {
+  font-size: 2.5em; /* Larger main titles */
+}
+
+/* 3. Image Styling */
+.sidebar-logo {
+  width: 100%;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+/* Optional: Fix MathJax scrolling on mobile if equations get too long */
+.MathJax_Display {
+  overflow-x: auto;
+  overflow-y: hidden;
+}

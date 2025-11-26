@@ -1,10 +1,4 @@
-# Data Science for Mathematicians
-วิทยาการข้อมูลสำหรับนักคณิตศาสตร์
-
-ผู้สอน: ดร.รัฐพรหม พรหมคำ
-
-
-## ปีการศึกษา 2567/2
+## ปีการศึกษา 2568/2
 รายวิชานี้ดำเนินการสอนในรูปแบบการบรรยาย ปฏิบัติการทางคอมพิวเตอร์ 
 อาจรวมถึงห้องเรียนออนไลน์หรือเป็นไปตามประกาศของทางมหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี 
 
@@ -13,17 +7,17 @@
 
 | Section | ห้องเรียน | วัน | บรรยายทฤษฏี  | ปฏิบัติการ  |
 |--------|---------|----|---------------|---------------|
-| 01     |  ST1905 | จันทร์ | 13.00 - 15.00  | 15.00 - 17.00|
+| 01     |  ST1905 | ศุกร์ | 08.00 - 10.00  | 10.00 - 12.00|
 
-สอบกลางภาค:  6 มกราคม 2568 เวลา 13.00 - 16.00
+สอบกลางภาค:  23 มกราคม 2568 เวลา 09.00 - 12.00
 
-สอบปลายภาค:  10 มีนาคม 2568 เวลา 13.00 - 16.00
+สอบปลายภาค:  20 มีนาคม 2568 เวลา 09.00 - 12.00
 
 ### ห้องเรียนออนไลน์ Microsoft Teams
 
 | Section | Invitation Code | 
 |---------|-----------------|
-|     01  |  `b54427x`      | 
+|     01  |  `izi6ugz`      | 
 
 กรอกรหัสการเข้าร่วม (Invitation Code) ตามที่ระบุไว้ของแต่ละ Section ที่นักศึกษาได้ลงทะเบียนไว้ เพื่อเข้าใช้งานห้องเรียนออนไลน์
 
@@ -37,39 +31,28 @@ Introduction to the practice of data science, predictive modeling, supervised se
 
 ## จุดมุ่งหมายรายวิชา
 
-1. ปฏิบัติตามกฎ ระเบียบ ข้อบังคับ และข้อตกลงของชั้นเรียนได้ 
-2. อธิบายวิธีการนำเข้าข้อมูลได้ 
-3. จำแนกประเภทของข้อมูลได้ 
-4. อธิบายกระบวนการในการจัดการชุดข้อมูล การจัดเตรียมข้อมูล การคัดกรอง การสุ่มตัวอย่าง การประมวลผลข้อมูลขนาดใหญ่ และการสำรวจข้อมูลได้ 
-5. ประยุกต์ใช้การทำนายและการจำแนกด้วยวิธีการทางคณิตศาสตร์ และแปลผลได้ 
-6. สร้างแผนภาพจากชุดข้อมูลเพื่อการนำเสนอได้ 
-7. นำเสนอข้อมูลทางคณิตศาสตร์ได้ 
+* CLO1. อธิบายที่มาและหลักการทางคณิตศาสตร์ของอัลกอริทึมพื้นฐานด้านวิทยาการข้อมูลได้
+* CLO2. เขียนอัลกอริทึมการเรียนรู้ของเครื่องจากหลักการพื้นฐาน โดยไม่ใช้ไลบรารีสำเร็จรูปได้
+* CLO3. ประยุกต์ใช้เครื่องมือมาตรฐานด้านวิทยาการข้อมูล ในการแก้ปัญหาจากชุดข้อมูลจริงได้
+* CLO4. ประเมินประสิทธิภาพของแบบจำลองทางคณิตศาสตร์แต่ละประเภทได้
+* CLO5. ออกแบบกระบวนการวิทยาการข้อมูลที่ครบวงจรเพื่อตอบโจทย์ปัญหาที่มีความซับซ้อนได้
+* CLO6. วิพากษ์ประเด็นปัญหาทางจริยธรรมและผลกระทบทางสังคมที่เกิดจากการใช้วิทยาการข้อมูลได้
 
 
 ## หัวข้อการบรรยาย
 
-1. PART A: Data Science Fundamental
-1. PART B: Applied Data Science with Python
-1. PART C: Data Science for Business
-1. PART D: Projects
-
-|PART| Topic						| 	Class Materials 		|
-|----|---------------------------|---------------------------|
-| A  | Introduction to data science  | [Lecture](./materials/01_data_science_intro.pdf)/ [Workshop](./materials/workshop_01) |
-| A  | Data Science Tools  | [Lecture](./materials/02_data_science_tools.pdf)/ [Workshop](./materials/workshop_02) |
-| A  | [Data Science Methodology](./slides/ds_methodology.html)  | [Lecture](./materials/03_data_science_methodology.pdf)/ [Workshop](./materials/workshop_03) |
-| B  | [Data Visualization with Python](./slides/data_viz.html)  | [Lecture](./materials/lecture_04.pdf)/ [Workshop](./materials/workshop_04) |
-|    | MID-TERM Examination  |  |
-| B  | Data Analysis with Python   | [Lecture](./materials/lecture_05.pdf)/ [Workshop](./materials/workshop_05.zip) |
-| B  | Machine Learning with Python    | [Lecture](./materials/lecture_06.pdf)/ [Workshop 1](./materials/workshop_06/1_workshop_regression.zip)/ [Workshop 2](./materials/workshop_06/2_workshop_classification.zip) |
-| C  | Data Privacy Fundamentals    | [Lecture](./materials/lecture_07.pdf)/ [Workshop](./materials/workshop_07.zip) |
-| C  | Predictive Modeling Fundamentals    | [Lecture](./materials/lecture_08.pdf)/ [Workshop](./materials/workshop_08.zip) |
-| C  | Case study I  | [CASE 1.1](./materials/case_duke.zip) <br> [CASE 1.2](./materials/case_stock.zip) |
-| C  | Case study II | [CASE 2](./materials/case_titanic.zip)  |
-| D  | Project-based Seminar I | TBA  |
-| D  | Project-based Seminar II | TBA  |
-| D  | Project-based Seminar III | TBA  |
-|    | FINAL Examination  |  |
+|   | Topic             |   Material      |
+|---|-------------------|-----------------|
+| 1 | ภูมิมทัศน์วิทยาการข้อมูล & เรขาคณิตของข้อมูล (Data Geometry) | [Lecture](./materials/lesson_01.pdf) <br> [Workshop](./matetials/workshops/01.zip) |
+| 2 | การถดถอยเชิงเส้นจากมุมมองเรขาคณิต (Linear Regression: Geometric View) | [Lecture](./materials/lesson_02.pdf) <br> [Workshop](./matetials/workshops/02.zip) |
+| 3 | พื้นฐานความน่าจะเป็นสำหรับการสร้างแบบจำลอง (Probabilistic Foundations) | [Lecture](./materials/lesson_03.pdf) <br> [Workshop](./matetials/workshops/03.zip) |
+| 4 | การประเมินแบบจำลองและการอนุมานทางสถิติ (Model Evaluation & Inference) | [Lecture](./materials/lesson_04.pdf) <br> [Workshop](./matetials/workshops/04.zip) |
+| 5 | การหาค่าเหมาะสมที่สุด: Gradient Descent | [Lecture](./materials/lesson_05.pdf) <br> [Workshop](./matetials/workshops/05.zip) |
+| 6 | การถดถอยโลจิสติก (Logistic Regression & GLMs) | [Lecture](./materials/lesson_06.pdf) <br> [Workshop](./matetials/workshops/06.zip) |
+| 7 | การจำแนกประเภทแบบไม่เชิงเส้น I (k-NN & Decision Trees) | [Lecture](./materials/lesson_07.pdf) <br> [Workshop](./matetials/workshops/07.zip) |
+| 8 | การจำแนกประเภทแบบไม่เชิงเส้น II (SVMs) | [Lecture](./materials/lesson_08.pdf) <br> [Workshop](./matetials/workshops/08.zip) |
+| 9 | การจัดกลุ่ม (Clustering: k-Means & Hierarchical) | [Lecture](./materials/lesson_09.pdf) <br> [Workshop](./matetials/workshops/09.zip) |
+| 10 | การลดมิติข้อมูล: Principle Component Analysis | [Lecture](./materials/lesson_10.pdf) <br> [Workshop](./matetials/workshops/10.zip) |
 
 
 
@@ -104,9 +87,18 @@ t-score = 50 + 10*(x - u)/s
 | A | 4.00 | [80, Inf) |
 
 
-
-
 ## เอกสารอ้างอิง
-- W. McKinney, Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, 2nd edition. O’Reilly Media, 2017.	
-- B. Tuckfield, Dive Into Data Science: Use Python To Tackle Your Toughest Business Challenges. San Francisco, CA: No Starch Press, 2023.	
-- J. Grus, Data Science from Scratch: First Principles with Python, 2nd edition. Sebastopol, CA: O’Reilly Media, 2019.	
+- Roch, S. (2025). Mathematical Methods in Data Science. Cambridge University Press.
+- Hastie, T., Tibshirani, R., & Friedman, J. (2017). The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition. Springer.
+- Deisenroth, M. P., Faisal, A. A., & Ong, C. S. (2020). Mathematics for Machine Learning (1st edition). Cambridge University Press.
+
+## ติดต่อผู้สอน
+
+| ผู้สอน       | Location  | Date/Time |
+|------------|-----------|-----------|
+| ดร.รัฐพรหม พรหมคำ [✉️](mailto:ratthaprom_p@rmutt.ac.th) | ST1302 | THU 9.00-12.00 |
+
+* กรณีที่นักศึกษาต้องการขอคำปรึกษานอกเวลาข้างต้น โปรดนัดล่วงหน้าผ่านช่องทางอีเมลล์อย่างน้อย 2 วัน
+* จำกัดจำนวนนักศึกษาไม่เกิน 3 คนต่อครั้ง เพื่อประสิทธิภาพในการให้คำปรึกษาสูงสุด
+
+***

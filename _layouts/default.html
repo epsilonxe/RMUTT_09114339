@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{ site.title | default: site.github.repository_name }}</title>
+    <meta name="description" content="{{ site.description | default: site.github.project_tagline }}">
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@700&family=Sarabun:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <script type="text/javascript" async
+      src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+  </head>
+  <body>
+    <div class="wrapper">
+      
+      <header>
+        
+        <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        
+        {% if site.description %}
+          <p>{{ site.description }}</p>
+        {% endif %}
+
+        <a href="{{ "/" | relative_url }}">
+            <img src="{{ '/assets/images/banner.jpg' | relative_url }}" alt="Logo" class="sidebar-logo">
+        </a>
+        
+        {% if site.show_downloads %}
+          <ul class="downloads">
+            <li><a href="">Download <strong>Lectures</strong></a></li>
+            <li><a href="">Download <strong>Exercises</strong></a></li>
+            <li><a href="">Download <strong>Solutions</strong></a></li>
+          </ul>
+        {% endif %}
+      </header>
+
+      <section>
+        {{ content }}
+      </section>
+
+      <footer>
+        <p><small>Hosted on GitHub Pages</small></p>
+      </footer>
+    </div>
+    
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+  </body>
+</html>
