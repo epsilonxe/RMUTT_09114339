@@ -19,6 +19,8 @@
     </script>
   </head>
   <body>
+    <div id="vanta-bg"></div>
+
     <div class="wrapper">
       
       <header>
@@ -50,7 +52,27 @@
         <p><small>Hosted on GitHub Pages</small></p>
       </footer>
     </div>
-    
+
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.globe.min.js"></script>
+
+    <script>
+      VANTA.GLOBE({
+        el: "#vanta-bg",
+        mouseControls: true,
+        touchControls: true,
+        gyroControls: false,
+        minHeight: 200.00,
+        minWidth: 200.00,
+        scale: 1.00,
+        scaleMobile: 1.00,
+        color: 0x2c3e50,       /* Matches your Header color */
+        color2: 0x1a252f,      /* A slightly darker shade for depth */
+        backgroundColor: 0xffffff, /* White background to keep text readable */
+        size: 1.20
+      })
+    </script>
   </body>
 </html>

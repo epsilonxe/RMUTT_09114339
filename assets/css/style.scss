@@ -34,3 +34,20 @@ h1 {
   overflow-x: auto;
   overflow-y: hidden;
 }
+
+
+/* --- VANTA BACKGROUND SETUP --- */
+#vanta-bg {
+  position: fixed; /* Stays in place while you scroll */
+  width: 100%;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  z-index: -1; /* Pushes it behind the text */
+  opacity: 0.6; /* Optional: Makes it subtle so math equations are easier to read */
+}
+
+/* Ensure the wrapper doesn't have a solid background blocking the view */
+.wrapper {
+  background: transparent; 
+}
