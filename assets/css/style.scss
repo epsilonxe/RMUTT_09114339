@@ -44,7 +44,7 @@ h1 {
   top: 0;
   left: 0;
   z-index: -1; /* Pushes it behind the text */
-  opacity: 1.0; /* Optional: Makes it subtle so math equations are easier to read */
+  opacity: 0.3; /* Optional: Makes it subtle so math equations are easier to read */
 }
 
 /* Ensure the wrapper doesn't have a solid background blocking the view */
