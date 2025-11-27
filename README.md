@@ -43,7 +43,7 @@ Introduction to the practice of data science, predictive modeling, supervised se
 
 |   | Topic             |   Material      |
 |---|-------------------|-----------------|
-| 1 | ภูมิมทัศน์วิทยาการข้อมูล & เรขาคณิตของข้อมูล <br> *Data Geometry* | [Lecture](./materials/lesson_01.pdf) <br> [Workshop](./materials/workshops/01.zip) |
+| 1 | [ภูมิทัศน์วิทยาการข้อมูล](./materials/slide_deck_01.pdf)  <br> *Data Geometry* | [Lecture](./materials/lesson_01.pdf) <br> [Workshop](./materials/workshops/01.zip) |
 | 2 | การถดถอยเชิงเส้นจากมุมมองเรขาคณิต <br> *Linear Regression: Geometric View* | [Lecture](./materials/lesson_02.pdf) <br> [Workshop](./materials/workshops/02.zip) |
 | 3 | พื้นฐานความน่าจะเป็นสำหรับการสร้างแบบจำลอง <br> *Probabilistic Foundations* | [Lecture](./materials/lesson_03.pdf) <br> [Workshop](./materials/workshops/03.zip) |
 | 4 | การประเมินแบบจำลองและการอนุมานทางสถิติ <br> *Model Evaluation & Inference* | [Lecture](./materials/lesson_04.pdf) <br> [Workshop](./materials/workshops/04.zip) |
