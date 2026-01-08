@@ -45,7 +45,7 @@ Introduction to the practice of data science, predictive modeling, supervised se
 |---|-------------------|-----------------|
 | 1 | [ภูมิทัศน์วิทยาการข้อมูล](./materials/slide_deck_01.pdf)  <br> *Data Geometry* | [Lecture](./materials/lesson_01.pdf) <br> [Workshop](./materials/workshop_01.zip) |
 | 2 | [การถดถอยเชิงเส้นจากมุมมองเรขาคณิต](./materials/slide_deck_02.pdf) <br> *Linear Regression: Geometric View* | [Lecture](./materials/lesson_02.pdf) <br> [Workshop](./materials/workshop_02.zip) |
-| 3 | พื้นฐานความน่าจะเป็นสำหรับการสร้างแบบจำลอง <br> *Probabilistic Foundations* | [Lecture](./materials/lesson_03.pdf) <br> [Workshop](./materials/workshop_03.zip) |
+| 3 | [พื้นฐานความน่าจะเป็นสำหรับการสร้างแบบจำลอง](./materials/slide_deck_03.pdf) <br> *Probabilistic Foundations* | [Lecture](./materials/lesson_03.pdf) <br> [Workshop](./materials/workshop_03.zip) |
 | 4 | การประเมินแบบจำลองและการอนุมานทางสถิติ <br> *Model Evaluation & Inference* | [Lecture](./materials/lesson_04.pdf) <br> [Workshop](./materials/workshop_04.zip) |
 | 5 | การหาค่าเหมาะสมที่สุด <br> *Gradient Descent* | [Lecture](./materials/lesson_05.pdf) <br> [Workshop](./materials/workshop_05.zip) |
 | 6 | การถดถอยโลจิสติก <br> *Logistic Regression & GLMs* | [Lecture](./materials/lesson_06.pdf) <br> [Workshop](./materials/workshop_06.zip) |
