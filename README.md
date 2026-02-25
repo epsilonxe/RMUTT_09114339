@@ -48,7 +48,7 @@ Introduction to the practice of data science, predictive modeling, supervised se
 | 3 | [พื้นฐานความน่าจะเป็นสำหรับการสร้างแบบจำลอง](./materials/slide_deck_03.pdf) <br> *Probabilistic Foundations* | [Lecture](./materials/lesson_03.pdf) <br> [Workshop](./materials/workshop_03.zip) <br> [Exercises/Solutions](./materials/exercises_03.pdf) |
 | 4 | [การประเมินแบบจำลองและการอนุมานทางสถิติ](./materials/slide_deck_04.pdf) <br> *Model Evaluation & Inference* | [Lecture](./materials/lesson_04.pdf) <br> [Workshop](./materials/workshop_04.zip) <br> [Exercises/Solutions](./materials/exercises_04.pdf) |
 | 5 | [การหาค่าเหมาะสมที่สุด](./materials/slide_deck_05.pdf) <br> *Gradient Descent* | [Lecture](./materials/lesson_05.pdf) <br> [Workshop](./materials/workshop_05.zip) <br> [Exercises/Solutions](./materials/exercises_05.pdf) |
-| 6 | [การถดถอยโลจิสติก](./materials/slide_deck_06.pdf) <br> *Logistic Regression & GLMs* | [Lecture](./materials/lesson_06.pdf) <br> [Workshop](./materials/workshop_06.zip) |
+| 6 | [การถดถอยโลจิสติก](./materials/slide_deck_06.pdf) <br> *Logistic Regression & GLMs* | [Lecture](./materials/lesson_06.pdf) <br> [Workshop](./materials/workshop_06.zip) <br> [Exercises/Solutions](./materials/exercises_06.pdf) |
 | 7 | การจำแนกประเภทแบบไม่เชิงเส้น I <br> *k-NN & Decision Trees* | [Lecture](./materials/lesson_07.pdf) <br> [Workshop](./materials/workshop_07.zip) |
 | 8 | การจำแนกประเภทแบบไม่เชิงเส้น II <br> *Support Vector Machines* | [Lecture](./materials/lesson_08.pdf) <br> [Workshop](./materials/workshop_08.zip) |
 | 9 | การจัดกลุ่ม <br> *Clustering: k-Means & Hierarchical* | [Lecture](./materials/lesson_09.pdf) <br> [Workshop](./materials/workshop_09.zip) |
