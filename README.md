@@ -53,6 +53,8 @@ Introduction to the practice of data science, predictive modeling, supervised se
 | 8 | การจำแนกประเภทแบบไม่เชิงเส้น II <br> *Support Vector Machines* | [Lecture](./materials/lesson_08.pdf) <br> [Workshop](./materials/workshop_08.zip) |
 | 9 | การจัดกลุ่ม <br> *Clustering: k-Means & Hierarchical* | [Lecture](./materials/lesson_09.pdf) <br> [Workshop](./materials/workshop_09.zip) |
 | 10 | การลดมิติข้อมูล <br> *Principle Component Analysis* | [Lecture](./materials/lesson_10.pdf) <br> [Workshop](./materials/workshop_10.zip) |
+| C1 | [กรณีศึกษา: การพยากรณ์ค่ารักษาพยาบาล](./materials/slide_deck_medical_insurance.pdf) <br> *Predicting Medical Insurance Charges* | [Report](./materials/report_medical_insurance.pdf) <br> [Zip](./materials/case_medical_insurance.zip) |
+| C2 | [กรณีศึกษา: การจำแนกลูกค้าเงินฝากของธนาคาร](./materials/slide_deck_bank.pdf) <br> *Predicting Bank Term Deposit Subscription* | [Report](./materials/report_bank.pdf) <br> [Zip](./materials/case_bank.zip) |
 
 
 
