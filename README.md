@@ -49,10 +49,6 @@ Introduction to the practice of data science, predictive modeling, supervised se
 | 4 | [การประเมินแบบจำลองและการอนุมานทางสถิติ](./materials/slide_deck_04.pdf) <br> *Model Evaluation & Inference* | [Lecture](./materials/lesson_04.pdf) <br> [Workshop](./materials/workshop_04.zip) <br> [Exercises/Solutions](./materials/exercises_04.pdf) |
 | 5 | [การหาค่าเหมาะสมที่สุด](./materials/slide_deck_05.pdf) <br> *Gradient Descent* | [Lecture](./materials/lesson_05.pdf) <br> [Workshop](./materials/workshop_05.zip) <br> [Exercises/Solutions](./materials/exercises_05.pdf) |
 | 6 | [การถดถอยโลจิสติก](./materials/slide_deck_06.pdf) <br> *Logistic Regression & GLMs* | [Lecture](./materials/lesson_06.pdf) <br> [Workshop](./materials/workshop_06.zip) <br> [Exercises/Solutions](./materials/exercises_06.pdf) |
-<!-- | 7 | การจำแนกประเภทแบบไม่เชิงเส้น I <br> *k-NN & Decision Trees* | [Lecture](./materials/lesson_07.pdf) <br> [Workshop](./materials/workshop_07.zip) |
-| 8 | การจำแนกประเภทแบบไม่เชิงเส้น II <br> *Support Vector Machines* | [Lecture](./materials/lesson_08.pdf) <br> [Workshop](./materials/workshop_08.zip) |
-| 9 | การจัดกลุ่ม <br> *Clustering: k-Means & Hierarchical* | [Lecture](./materials/lesson_09.pdf) <br> [Workshop](./materials/workshop_09.zip) |
-| 10 | การลดมิติข้อมูล <br> *Principle Component Analysis* | [Lecture](./materials/lesson_10.pdf) <br> [Workshop](./materials/workshop_10.zip) | -->
 | C1 | [กรณีศึกษา: การพยากรณ์ค่ารักษาพยาบาล](./materials/slide_deck_medical_insurance.pdf) <br> *Predicting Medical Insurance Charges* | [Report](./materials/report_medical_insurance.pdf) <br> [Zip](./materials/case_insurance.zip) |
 | C2 | [กรณีศึกษา: การจำแนกลูกค้าเงินฝากของธนาคาร](./materials/slide_deck_bank.pdf) <br> *Predicting Bank Term Deposit Subscription* | [Report](./materials/report_bank.pdf) <br> [Zip](./materials/case_bank.zip) |
 
